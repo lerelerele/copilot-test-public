@@ -1,4 +1,4 @@
-import { helloWorld } from './hello';
+import { helloWorld } from '../src/hello';
 
 describe('helloWorld', () => {
   test('returns default greeting', () => {
